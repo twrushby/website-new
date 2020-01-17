@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Thomas W Rushby</title>
+    <link>http://blog.rushby.me.uk/courses/</link>
+      <atom:link href="http://blog.rushby.me.uk/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Tom Rushby</copyright>
+    <image>
+      <url>http://blog.rushby.me.uk/img/bio_pic.jpg</url>
+      <title>Courses</title>
+      <link>http://blog.rushby.me.uk/courses/</link>
+    </image>
+    
+  </channel>
+</rss>

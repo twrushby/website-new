@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Thomas W Rushby</title>
+    <link>http://blog.rushby.me.uk/tags/</link>
+      <atom:link href="http://blog.rushby.me.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Tom Rushby</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://blog.rushby.me.uk/img/bio_pic.jpg</url>
+      <title>Tags</title>
+      <link>http://blog.rushby.me.uk/tags/</link>
+    </image>
+    
+    <item>
+      <title>Blogdown</title>
+      <link>http://blog.rushby.me.uk/tags/blogdown/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://blog.rushby.me.uk/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://blog.rushby.me.uk/tags/r/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://blog.rushby.me.uk/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>http://blog.rushby.me.uk/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://blog.rushby.me.uk/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://blog.rushby.me.uk/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.rushby.me.uk/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>http://blog.rushby.me.uk/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://blog.rushby.me.uk/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

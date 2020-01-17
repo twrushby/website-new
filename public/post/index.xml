@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Thomas W Rushby</title>
+    <link>http://blog.rushby.me.uk/post/</link>
+      <atom:link href="http://blog.rushby.me.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Tom Rushby</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://blog.rushby.me.uk/img/bio_pic.jpg</url>
+      <title>Posts</title>
+      <link>http://blog.rushby.me.uk/post/</link>
+    </image>
+    
+    <item>
+      <title>Under construction</title>
+      <link>http://blog.rushby.me.uk/post/under-construction/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://blog.rushby.me.uk/post/under-construction/</guid>
+      <description>&lt;p&gt;Hello and welcome to my new website. Having a decent personal blog has been on my to-do list for sometime but the list of requirements meant that it has taken a while to get things off the ground!&lt;/p&gt;
+&lt;h2 id=&#34;the-requirements&#34;&gt;The requirements&lt;/h2&gt;
+&lt;p&gt;This project will build on my recent experience of statistical computing and software engineering using the R. To extend my learning I wanted to combine this experience with the development of a new personal website. The aim is three-fold: to document my learning, highlight some of the skills acquired, and show some applied examples.&lt;/p&gt;
+&lt;p&gt;The website is initially intended as a space for me to document my learning and highlight some of the skills and techniques I find useful in my work. As the site develops, it may also provide a place to showcase some of my applied research.&lt;/p&gt;
+&lt;p&gt;With these things in mind, the following list of platform requirements emerged:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;A blog and pages for a personal website&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Incorporate code examples from R environment easily&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Ability to expand to showcase projects, papers etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+&lt;p&gt;Given the above, I was keen to learn how to blog and build websites using R Studio particularly as I now use the environment heavily in my day-to-day work. The Blogdown package seemed to fit the bill well, particularly given the use of R Markdown which I had been using on a recent project.&lt;/p&gt;
+&lt;p&gt;The Hugo-academic theme provides a great (and flexible) structure with which to build a simple initial site while allowing the site to expand to easily incorporate a number of research (and teaching) -based elements in the future.&lt;/p&gt;
+&lt;p&gt;Finally, I followed the recommendation to deploy the site through GitHub and Netlify.&lt;/p&gt;
+&lt;h2 id=&#34;work-in-progress&#34;&gt;Work in progress&lt;/h2&gt;
+&lt;p&gt;Much of the content of this site will be my learning around R and other tools and I suspect many of my early posts will be full of bugs. So please feel free to get in touch if something doesn&#39;t work, or you have any pointers!&lt;/p&gt;
+&lt;p&gt;I will be posting more on my experience building this site soon, but in the meantime, thanks for visiting.&lt;/p&gt;
+&lt;p&gt;Cheers, Tom.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

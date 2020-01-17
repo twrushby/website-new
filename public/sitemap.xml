@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/categories/blog/</loc>
+    <lastmod>2020-01-16T15:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/tags/blogdown/</loc>
+    <lastmod>2020-01-16T15:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/categories/</loc>
+    <lastmod>2020-01-16T15:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/post/</loc>
+    <lastmod>2020-01-16T15:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/categories/r/</loc>
+    <lastmod>2020-01-16T15:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/tags/r/</loc>
+    <lastmod>2020-01-16T15:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/tags/</loc>
+    <lastmod>2020-01-16T15:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/post/under-construction/</loc>
+    <lastmod>2020-01-16T15:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/authors/admin/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/authors/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.rushby.me.uk/courses/</loc>
+  </url>
+  
+</urlset>
