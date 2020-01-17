@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Thomas W Rushby</title>
-    <link>http://blog.rushby.me.uk/categories/</link>
-      <atom:link href="http://blog.rushby.me.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Tom Rushby</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://blog.rushby.me.uk/img/bio_pic.jpg</url>
+      <url>/img/bio_pic.jpg</url>
       <title>Categories</title>
-      <link>http://blog.rushby.me.uk/categories/</link>
+      <link>/categories/</link>
     </image>
     
     <item>
       <title>Blog</title>
-      <link>http://blog.rushby.me.uk/categories/blog/</link>
+      <link>/categories/blog/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://blog.rushby.me.uk/categories/blog/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>http://blog.rushby.me.uk/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://blog.rushby.me.uk/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     

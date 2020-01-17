@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Thomas W Rushby</title>
-    <link>http://blog.rushby.me.uk/categories/blog/</link>
-      <atom:link href="http://blog.rushby.me.uk/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/blog/</link>
+      <atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Tom Rushby</copyright><lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://blog.rushby.me.uk/img/bio_pic.jpg</url>
+      <url>/img/bio_pic.jpg</url>
       <title>Blog</title>
-      <link>http://blog.rushby.me.uk/categories/blog/</link>
+      <link>/categories/blog/</link>
     </image>
     
     <item>
       <title>Under construction</title>
-      <link>http://blog.rushby.me.uk/post/under-construction/</link>
+      <link>/post/under-construction/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://blog.rushby.me.uk/post/under-construction/</guid>
+      <guid>/post/under-construction/</guid>
       <description>&lt;p&gt;Hello and welcome to my new website. Having a decent personal blog has been on my to-do list for sometime but the list of requirements meant that it has taken a while to get things off the ground!&lt;/p&gt;
 &lt;h2 id=&#34;the-requirements&#34;&gt;The requirements&lt;/h2&gt;
 &lt;p&gt;This project will build on my recent experience of statistical computing and software engineering using the R. To extend my learning I wanted to combine this experience with the development of a new personal website. The aim is three-fold: to document my learning, highlight some of the skills acquired, and show some applied examples.&lt;/p&gt;

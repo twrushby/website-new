@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Thomas W Rushby</title>
-    <link>http://blog.rushby.me.uk/authors/</link>
-      <atom:link href="http://blog.rushby.me.uk/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 Tom Rushby</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://blog.rushby.me.uk/img/bio_pic.jpg</url>
+      <url>/img/bio_pic.jpg</url>
       <title>Authors</title>
-      <link>http://blog.rushby.me.uk/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://blog.rushby.me.uk/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://blog.rushby.me.uk/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Thomas Rushby (MSc, PhD) is a researcher within the Sustainable Energy Research Group (Energy and Climate Change Division) at the University of Southampton.&lt;/p&gt;
 &lt;p&gt;Prior to joining the University of Southampton, Tom spent 10 years working in civil and structural engineering practice before completing a master’s degree in Architecture with a focus on energy, environment and sustainable development.&lt;/p&gt;
 &lt;p&gt;Tom joined the University in 2010, initially working as a Research Engineer on an RCUK funded project – The role of Community-Based Initiatives in Energy Saving – before completing his PhD at the Univeristy of Southampton’s ESRC Doctoral Training Centre (DTC) under the interdisciplinary Energy, Environment and Resilience pathway.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Robert Ford</title>
-      <link>http://blog.rushby.me.uk/authors/robert-ford/</link>
+      <link>/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://blog.rushby.me.uk/authors/robert-ford/</guid>
+      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     
