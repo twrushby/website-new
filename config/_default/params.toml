@@ -93,7 +93,7 @@ address = {street = "Boldrewood Innovation Campus, Burgess Road", city = "Southa
 coordinates = {latitude = "50.93740", longitude = "-1.40418"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 178 and take the stairs or lift to Level 4"
+directions = "" # "Enter Building 178 and take the stairs or lift to Level 4"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
